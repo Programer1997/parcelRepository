@@ -1,0 +1,1 @@
+{"version":3,"sources":["estilos\\main.scss"],"names":[],"mappings":"AAEA,KAEI","file":"src.e79c94fc.css","sourceRoot":"..\\src","sourcesContent":["$colorFondo:peru; \r\n\r\nbody { \r\n    \r\n    background-color: $colorFondo;\r\n}"]}
